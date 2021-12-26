@@ -34,8 +34,8 @@ A partir des séquences de positions actuelles et/ou séquences d'angles, prédi
 Similaire au 3.a mais avec des réseaux LSTM.
 
 # Groupes
-1.
-2.
-3.
-4.
-5.
+1. Jean-Baptiste Cognet, Marion Othéguy, Anas Talbi
+2. Amine Karbab, Tangi Maneux, Ahmed Souarji
+3. Adrien Couzinier, Marc Duclusaud
+4. Aya Bouzbib, Cloé Brissaud, Gonzalo Feijoo-Rodriguez
+5. Marius Barrais, Théa Constans-Protopappas, Sébastien Delpeuch
